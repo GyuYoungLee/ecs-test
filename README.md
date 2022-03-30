@@ -1,4 +1,4 @@
-ECS Fargate 테스트를 sample 프로젝트
+ECS Fargate 테스트를 sample
 ---
 
 
