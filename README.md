@@ -1,4 +1,4 @@
-ECS Fargate 테스트를 sample
+ECS Fargate 테스트 용도의 sample
 ---
 
 
